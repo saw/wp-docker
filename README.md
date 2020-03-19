@@ -1,6 +1,6 @@
 # Wordpress with Docker
 
-This setup is based on [this example](https://docs.docker.com/compose/wordpress/)
+This setup is based on [this example](https://docs.docker.com/compose/wordpress/).
 Installation: [Install docker desktop](https://docs.docker.com/install/#desktop).
 
 in this directory run: 
